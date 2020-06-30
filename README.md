@@ -13,19 +13,13 @@ recursos acadêmicos que a pandemia gera para a comunidade acadêmica.
 
 - Para instalar as dependências do projeto, execute o seguinte comando:
 
-
-
-
+```
+pip install -r requirements.txt
+```
 
 ## Como rodar o Projeto
 
 ### Em modo de desenvolvimento
-
-- Com o Python e o pip instalados, utilize o comando abaixo para instalar as dependências:
-
-```
-pip install -r requirements.txt
-```
 
 - Para rodar o projeto neste modo, utilize o comando abaixo:
 
